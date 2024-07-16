@@ -1,4 +1,4 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pyjuan91?theme=wtf&extension=contest)](https://leetcard.jacoblin.cool/pyjuan91?theme=wtf&extension=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pyjuan91?theme=wtf&extension=contest&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count)](https://leetcard.jacoblin.cool/pyjuan91?theme=wtf&extension=contest&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count)
 
 ## Hearin Keyowoo😭
 
