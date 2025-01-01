@@ -2,4 +2,4 @@
 
 ## Haerin Keyowoo😭
 
-<iframe src="https://giphy.com/embed/1nUbAmPVLRg7KIAwak" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kpop-newjeans-haerin-1nUbAmPVLRg7KIAwak">via GIPHY</a></p>
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNlNWZ6MDN3OGJwb21pc2k4MHFwZzNsaHJqdjRvbmh5d3ZnNmRxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1nUbAmPVLRg7KIAwak/giphy.webp)
