@@ -5,23 +5,13 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://leetcard.jacoblin.cool/pyjuan91?theme=nord&extension=contest">
-        <img src="https://leetcard.jacoblin.cool/pyjuan91?theme=nord&extension=contest&hide=ranking" alt="LeetCode Stats" height="200"/>
+    <td width="60%" align="center">
+       <a href="https://git.io/streak-stats">
+       <img src="https://streak-stats.demolab.com?user=pyjuan91&theme=nightowl&border_radius=20" alt="GitHub Streak" height="200" width="100%"/>
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyjuan91&layout=compact&theme=nord&hide=vhdl,makefile,verilog,cmake,svelte,postscript,jupyter%20notebook,shell" alt="Top Languages" height="200">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="100%" style="vertical-align: middle;">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=pyjuan91&theme=nightowl&border_radius=20" alt="GitHub Streak" height="200" width="100%"/>
-      </a>
     </td>
   </tr>
 </table>
