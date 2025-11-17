@@ -1,4 +1,4 @@
-# 🐰 Haerin Enthusiast | Po-Yu (Poe)
+# 🐰 Haerin Enthusiast
 🇹🇼 -> 🗽
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,rust,go,docker,linux,pytorch,kotlin,swift,flutter)](https://skillicons.dev)
